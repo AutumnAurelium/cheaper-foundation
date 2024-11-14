@@ -1,0 +1,12 @@
+{
+    "name": "cheaper-foundation",
+    "version": "0.1.0",
+    "title": "Cheaper Foundations",
+    "author": "aurelium",
+    "dependencies": [
+        "base >= 2.0.2",
+        "space-age >= 2.0.2"
+    ],
+    "description": "Makes the foundation recipe cheaper, and more practical to produce outside of Aquilo.",
+    "factorio_version": "2.0"
+}

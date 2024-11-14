@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "types": [
+            "typed-factorio/runtime",
+            "typed-factorio/settings",
+            "typed-factorio/prototype"
+        ],
+        "outDir": "dist",
+    }
+}
